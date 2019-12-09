@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  max-width: 300px;
+  margin-top: 200px;
+  margin-bottom: 30px;
+}
+
+.imgDiv {
+
+}
+
+.search {
+  width: 600px;
+  height: 50px;
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  color: #7f8c8d;
+  font-weight: 300;
+  outline: none;
+}
+
+button {
+  padding: 10px 30px;
+  border: none;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 3px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  color: #636e72;
+  font-weight: 700;
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
