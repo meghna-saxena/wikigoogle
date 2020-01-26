@@ -10,4 +10,8 @@ body {
   padding: 0;
 }
 
-
+.search {
+  border-radius: 20px;
+  box-shadow: none;
+  padding: 10px;
+}
